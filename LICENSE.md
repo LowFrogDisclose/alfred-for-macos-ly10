@@ -1,4 +1,4 @@
-
+Alfred for macOS premium App: battery-health & OCR-support is the best Alfred for macOS app, featuring battery-health and OCR-support. Safe, efficient, and optimized for macOS
 
 
 
